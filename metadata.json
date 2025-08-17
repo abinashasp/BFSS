@@ -1,0 +1,5 @@
+{
+  "name": "BFSS TAMIL Auto Trade",
+  "description": "A simulation panel for automating trades on Quotex using a Martingale strategy. Users can set financial targets, manage risk with stop-loss, and manually input trade signals to see the bot's performance.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "react": "/vendor/react.js",
+    "react-dom/client": "/vendor/react-dom-client.js"
+  }
+}

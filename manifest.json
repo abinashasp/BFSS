@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "BFSS TAMIL Auto Trade",
+  "version": "1.0",
+  "description": "A simulation panel for automating trades on Quotex using a Martingale strategy. Users can set financial targets, manage risk with stop-loss, and manually input trade signals to see the bot's performance.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://api.telegram.org/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+}
